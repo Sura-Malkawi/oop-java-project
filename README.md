@@ -1,18 +1,24 @@
-# Java OOP Project
+# Student Portal System (Java)
+This project is a Java-based Student Portal developed as part of my Object-Oriented Programming coursework.
 
-This project demonstrates core Object-Oriented Programming concepts using Java.
+## 📌 Project Overview
+The system demonstrates core programming concepts including:
+- Object-Oriented Programming (OOP)
+- Procedural vs Event-Driven programming
+- Class relationships and data handling
 
-## Concepts Covered
-- Classes & Objects
-- Encapsulation
-- Inheritance
-- Polymorphism
-
-## Project Structure
-- `Main.java`: Application entry point
-- `Student.java`: Represents a student entity
-- `Course.java`: Represents a course entity
-
-## Tools
+## 🛠 Technologies Used
 - Java
-- IntelliJ IDEA / NetBeans
+- OOP Principles
+
+## 📂 Project Structure
+- `Student.java` – Manages student data
+- `Course.java` – Represents course information
+- `User.java` – Base user class
+- `Employee.java` – Employee-related operations
+- `Portal.java` – Main portal logic
+- `EventDrivenPortal.java` – Event-driven implementation
+- `PortalProcedural.java` – Procedural implementation
+- `factorialCalculator.java` – Utility example
+
+Developed by **Sura Malkawi**
